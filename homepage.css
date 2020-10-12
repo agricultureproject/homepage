@@ -1,0 +1,48 @@
+.header{
+    text-align:center;
+    background-color:yellow;
+    height:200px;
+  }
+  .desc{
+    border-bottom:5px black solid;
+    
+  }
+  marquee{
+    color:red;
+    font-size:20px;
+  }
+  
+  .dept{
+  border-bottom:5px black solid;
+  width:160px;
+  color:#6495ED;
+  }
+  .portimage{
+  text-align:center;
+  }
+  #plant{
+  
+  margin-right:25%;
+  }
+  
+  a:hover{
+  background-color:black;
+  width:100px;
+  }
+  .portal{
+  background-color:#F0FFFF;
+  
+  }
+  
+  .agri{
+  margin-right:35%;
+  color:green;
+  
+  
+  }
+  
+  .stud{
+  color:red;
+  }
+  
+  
